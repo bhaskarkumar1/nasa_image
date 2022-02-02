@@ -1,0 +1,14 @@
+{
+  "name": "nasa",
+  "version": "1.0.0",
+  "description": "Your API key for thisisofficialbk@gmail.com is:",
+  "main": "nasa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bhaskar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
